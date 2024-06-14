@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://discord.gg/fZDeS4vtqV">
-    <img src="https://github.com/Jay0Hx/Jaylien/assets/119745695/dc73011f-4ff0-4774-a7cb-1ad1035a09d1" alt="LogoSMALL" width="120" height="120">
+    <img src="https://github.com/Jay0Hx/Nemesis/assets/119745695/85588a88-4519-4e75-9916-ab50826b28e8" alt="LogoSMALL" width="120" height="120">
   </a>
   <h3 align="center">'PredatorV1' | An Assetto Corsa, LUA based menu.</h3>
   <p align="center">
