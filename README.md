@@ -12,4 +12,8 @@
 </div>
 
 <h1 align="center">Pre-release information regarding 'Nemesis':</a></h1>
-Predator V1 is a new version of Alien2 (Linked above) which was an amazing tool for manipulating AC physics related features such as power, handling, grip, etc... CSP developers removed the usage of certain aspects which temporarily disabled the use of AlienV2. PredatorV1 is the new project filling the shoes of the previous developer, the latest version is tried and tested to be working on 0.1.79 and below which is currently the latest stable release of CSP.
+Nemesis is the new and evolved version of AlienV2 and PredatorV1 from the older versions of CSP. These versions used a floor in the game mechanics to allow the user to manipulate their vehicle settings such as power, turbos, grip and more! Due to this floor being patched post 0.1.79 we have been looking long and hard for an effective alternative. Nemesis is that alternative!
+
+Nemesis is a totally different concept with regards to how we handle the clients vehicle information, instead of using the built in LUA api provided by the respective CSP versions we are not using a DLL injection format using a tailor made DLL to directly handle events and function. This allows us to handle a-lot more information in a smaller and cleaner format.
+
+Nemesis is currently under heavy development and not ready for the public, keep an eye on our discord and this repo for information, news and more! If you would like to suppor the development or you are expierened in creating DLLs for games, please head over to the discord and let us know, we need all the help we can get with this project!
